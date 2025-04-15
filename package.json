@@ -1,0 +1,8 @@
+{
+  "name": "randcord",
+  "private": true,
+  "workspaces": ["packages/client", "packages/server"],
+  "dependencies": {
+    "@discord/embedded-app-sdk": "^2.0.0"
+  }
+}
